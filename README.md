@@ -19,7 +19,7 @@
 * [Nuxt.js](https://nuxtjs.org/) - Universal Vue.js Applications
 * [Bulma](https://bulma.io/) -  a modern CSS framework based on Flexbox
 * [Material Design Lite](https://getmdl.io/)
-* [uetify.js](https://vuetifyjs.com/en/) - Vue.js Material Component Framework
+* [vuetify.js](https://vuetifyjs.com/en/) - Vue.js Material Component Framework
 
 ---
 
@@ -45,6 +45,8 @@
 * [Sentry](https://sentry.io/welcome/) - Error Tracking Software — JavaScript, Python, PHP, Ruby, more
 * [Datadog](https://www.datadoghq.com/) - Modern monitoring & analytics
 * [Grafana](https://grafana.com/) -  The open platform for analytics and monitoring
+* [Prometheus](https://prometheus.io/) - Monitoring system & time series databas
+* [Uptime Robot](https://uptimerobot.com/)
 
 ---
 
