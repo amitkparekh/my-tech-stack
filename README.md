@@ -40,6 +40,14 @@
 
 ---
 
+## Logging and monitoring
+
+* [Sentry](https://sentry.io/welcome/) - Error Tracking Software — JavaScript, Python, PHP, Ruby, more
+* [Datadog](https://www.datadoghq.com/) - Modern monitoring & analytics
+* [Grafana](https://grafana.com/) -  The open platform for analytics and monitoring
+
+---
+
 ## Hosting
 
 * [Now.sh](https://zeit.co/now) - Global Serverless Deployment
