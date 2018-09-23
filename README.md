@@ -1,6 +1,6 @@
 # my-tech-stack
 
-> This repository lists my favorite technologies and tools for all the developpment lifecycle.
+> This repository lists my favorite technologies and tools for all the developpment lifecycle from idea to production. From my favorite languages like PHP and Go to develop applications to great PaaS services that I could use for faster application development. With the tools listed in here, I believe I can build anything.
 
 ## Backend
 
