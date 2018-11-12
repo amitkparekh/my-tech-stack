@@ -4,9 +4,9 @@
 
 ## Backend
 
-* [PHP 7](http://php.net/)
+* [PHP 7](http://php.net/) - My main language of choice.
 * [Symfony](https://symfony.com/) -  High Performance PHP Framework for Web Development
-* [Golang](https://golang.org/)
+* [Golang](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. Very useful for building cli tools and microsevices.
 
 ---
 
@@ -52,7 +52,6 @@
 
 ## Hosting
 
-* [Now.sh](https://zeit.co/now) - Global Serverless Deployment
 * [Netlify](https://www.netlify.com/) -  All-in-one platform for automating modern web projects.
 
 ---
@@ -77,6 +76,7 @@
 * [Algolia](https://www.algolia.com/) - Fast, Reliable and Modern Search and Discovery. ElasticSearch as a Service.
 
 ---
+
 
 ## CMS
 
