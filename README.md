@@ -37,24 +37,13 @@
 * [DigitalOcean](https://www.digitalocean.com/)
 * [Cloudflare](https://www.cloudflare.com/)- CDN, DNS and DDOS Protection
 * [Namecheap](https://www.namecheap.com/) - Domain registar
-
----
-
-## Logging and monitoring
-
+* [Netlify](https://www.netlify.com/) -  All-in-one platform for automating modern web projects.
 * [Sentry](https://sentry.io/welcome/) - Error Tracking Software — JavaScript, Python, PHP, Ruby, more
 * [Datadog](https://www.datadoghq.com/) - Modern monitoring & analytics
 * [Grafana](https://grafana.com/) -  The open platform for analytics and monitoring
 * [Prometheus](https://prometheus.io/) - Monitoring system & time series databas
 * [Uptime Robot](https://uptimerobot.com/)
 
----
-
-## Hosting
-
-* [Netlify](https://www.netlify.com/) -  All-in-one platform for automating modern web projects.
-
----
 
 ## PaaS
 
