@@ -1,6 +1,30 @@
-# my-tech-stack
+# My Tech stack and tools
 
-> This repository lists my favorite technologies and tools for all the developpment lifecycle from idea to production. From my favorite languages like PHP and Go to develop applications to great PaaS services that I could use for faster application development. With the tools listed in here, I believe I can build anything.
+> In this repository you can find a list of my personal favorite tools, programming languages and frameworks that I would use to build any kind of project. Some of the tools listed I have a deep working experience like PHP, Symfony and Golang, some others are there mostly from reading blogs and tutorials that made me think it would be a great choice for some type of project, but that I havent the chance yet to work with like Gridsome or Graphql.
+
+- [Methodologies](#methodologies)
+- [Application Development](#application-development)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
+  - [Mobile Development](#mobile-development)
+  - [Desktop Development](#desktop-development)
+  - [RAD Development](#rad-development)
+  - [CMS](#cms)
+- [Infrastucture and Services](#infrastucture-and-services)
+  - [Hosting](#hosting)
+  - [Monitoring](#monitoring)
+  - [PaaS](#paas)
+  - [DbaaS](#dbaas)
+  - [Serverless](#serverless)
+- [Specific applications](#specific-applications)
+  - [Ecommerce sites](#ecommerce-sites)
+  - [Landing Pages](#landing-pages)
+- [Development Tools](#development-tools)
+- [Marketing and Analytics](#marketing-and-analytics)
+- [Design](#design)
+- [Documentation](#documentation)
+- [Testing](#testing)
+
 
 ## Methodologies
 
@@ -111,7 +135,6 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 * [Cloud Functions](https://cloud.google.com/functions/)
 * [Formspree](https://formspree.io/) - A Contact Form to Email Service
 
-
 ---
 
 ## Specific applications
@@ -128,6 +151,11 @@ For landing pages I will always try to use JamStack tools.
 
 * [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites | 
 * [Forms | Netlify](https://www.netlify.com/docs/form-handling/) - Serverless form handling
+
+### Chat bots
+
+* [Botkit](https://botkit.ai/) - Building Blocks for Building Bot
+* [probot/probot](https://github.com/probot/probot) -  A framework for building GitHub Apps to automate and improve your workflow
 
 ---
 
