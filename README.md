@@ -2,6 +2,11 @@
 
 > This repository lists my favorite technologies and tools for all the developpment lifecycle from idea to production. From my favorite languages like PHP and Go to develop applications to great PaaS services that I could use for faster application development. With the tools listed in here, I believe I can build anything.
 
+## Methodologies
+
+* Agile
+* Continuous Delivery
+
 ## Application Development
 
 ### Backend
@@ -40,7 +45,7 @@ Open source framework for building truly native mobile apps with Angular, Vue.js
 * [Electron](https://electronjs.org/) - Build cross platform desktop apps with JavaScript, HTML, and CSS.
 * [Vala](https://wiki.gnome.org/Projects/Vala) - Vala is a programming language using modern high level abstractions without imposing additional runtime requirements and without using a different ABI compared to applications and libraries written in C. Vala uses the GObject type system and has additional code generation routines that make targeting the GNOME stack simple. 
 
-## RAD Development
+### RAD Development
 
 Tools that allow Rapid application development useful for MVPs and Prototypes
 
@@ -52,9 +57,17 @@ Tools that allow Rapid application development useful for MVPs and Prototypes
 
 Check [Paas](#PaaS) for more tools that can help with RAD.
 
+### CMS
+
+* [GraphCMS](https://graphcms.com/) -  The GraphQL Headless CMS
+* [Netlify CMS](https://www.netlifycms.org/) -  Open-Source Content Management System
+* [Strapi](https://strapi.io/) - - Node.js Headless CMS for building customizable AP
+* [Forestry.io](https://forestry.io/#/) - Static CMS for Hugo & Jekyll
+* [Prismic](https://prismic.io/) - Headless API CMS for both developers and marketers
+
 ---
 
-## Infrastucture
+## Infrastucture and Services
 
 ### Hosting
 
@@ -101,31 +114,27 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 
 ---
 
+## Specific applications
 
-## CMS
-
-* [GraphCMS](https://graphcms.com/) -  The GraphQL Headless CMS
-* [Netlify CMS](https://www.netlifycms.org/) -  Open-Source Content Management System
-* [Strapi](https://strapi.io/) - - Node.js Headless CMS for building customizable AP
-* [Forestry.io](https://forestry.io/#/) - Static CMS for Hugo & Jekyll
-* [Prismic](https://prismic.io/) - Headless API CMS for both developers and marketers
-
----
-
-## Ecommerce sites
+### Ecommerce sites
 
 * [PrestaShop](https://www.prestashop.com/en) - Create and develop your business
 * [Sylius](https://sylius.com/) - Open Source eCommerce framework on Symfony
 * [Snipcart](https://snipcart.com/) - Shopping Cart Solution - Add a Cart to Any Site in Minutes
 
+### Landing Pages
 
+For landing pages I will always try to use JamStack tools.
+
+* [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites | 
+* [Forms | Netlify](https://www.netlify.com/docs/form-handling/) - Serverless form handling
+
+---
 
 ## Development Tools
 
 * [GitLab](https://about.gitlab.com/) - Code repository and CI / CD Pipeline
 * [Codacy](https://www.codacy.com/) - Automated code reviews & code analytics
-
----
 
 ## Marketing and Analytics
 
@@ -162,3 +171,5 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 * [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 
 And many more, depending on the language of the application
+
+
