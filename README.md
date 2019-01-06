@@ -2,7 +2,9 @@
 
 > This repository lists my favorite technologies and tools for all the developpment lifecycle from idea to production. From my favorite languages like PHP and Go to develop applications to great PaaS services that I could use for faster application development. With the tools listed in here, I believe I can build anything.
 
-## Backend
+## Application Development
+
+### Backend
 
 * [PHP 7](http://php.net/) - PHP its one of the most balanced languages in terms of learning curve, features and performance. Its true that there are some inconsistencies in the core library but it still gets the job done. Thanks to its OOP capabilities and frameworks like Symfony, it enables me to write high quality applications very fast.
 * [Symfony](https://symfony.com/) -  High Performance PHP Framework for Web Development.
@@ -11,7 +13,7 @@
 
 ---
 
-## Frontend
+### Frontend
 
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
 * [Sass](https://sass-lang.com/)
@@ -26,14 +28,14 @@
 
 ---
 
-## Mobile Development
+### Mobile Development
 
 * [Nativescript](https://www.nativescript.org/) - Create Native iOS and Android Apps with JavaScript
 Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript.
 * [NativeScript-Vue](https://nativescript-vue.org/) - A NativeScript plugin for building truly native applications using Vue.js.
 * [Firebase](https://firebase.google.com/)
 
-## Desktop Development
+### Desktop Development
 
 * [Electron](https://electronjs.org/) - Build cross platform desktop apps with JavaScript, HTML, and CSS.
 * [Vala](https://wiki.gnome.org/Projects/Vala) - Vala is a programming language using modern high level abstractions without imposing additional runtime requirements and without using a different ABI compared to applications and libraries written in C. Vala uses the GObject type system and has additional code generation routines that make targeting the GNOME stack simple. 
@@ -50,10 +52,11 @@ Tools that allow Rapid application development useful for MVPs and Prototypes
 
 Check [Paas](#PaaS) for more tools that can help with RAD.
 
-
 ---
 
 ## Infrastucture
+
+### Hosting
 
 * [DigitalOcean](https://www.digitalocean.com/) - The simplest cloud platform for developers & teams.
 * [Heroku](https://dashboard.heroku.com)
@@ -62,7 +65,7 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 * [Netlify](https://www.netlify.com/) -  All-in-one platform for automating modern web projects.
 * [Kubernetes](https://kubernetes.io/)
 
-## Monitoring
+### Monitoring
 
 * [Sentry](https://sentry.io/welcome/) - Error Tracking Software — JavaScript, Python, PHP, Ruby, more
 * [Datadog](https://www.datadoghq.com/) - Modern monitoring & analytics
@@ -72,7 +75,7 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 * [Logz.io](https://logz.io/pricing/) - ELK as a Service
 * [statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation
 
-## PaaS
+### PaaS
 
 * [SendGrid](https://sendgrid.com/) - Email Delivery Service
 * [Cloudinary](https://cloudinary.com/) - Image and Video Upload, Storage, Optimization and CDN
@@ -82,14 +85,19 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 * [Stripe](https://stripe.com/) - Online payment processing for internet businesses
 * [Auth0](https://auth0.com/) - Authentication as a Service
 
----
-
-## DbaaS
+### DbaaS
 
 * [Cloud Firestore](https://firebase.google.com/docs/firestore/) - Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud Platform.
 * [MongoDB Hosting: Database-as-a-Service by mLab](https://mlab.com/)
 * [Cloud SQL](https://cloud.google.com/sql/docs/) - Cloud SQL is a fully-managed database service that makes it easy to set up, maintain, manage, and administer your relational databases on Google Cloud Platform.
 * [Algolia](https://www.algolia.com/) - Fast, Reliable and Modern Search and Discovery. ElasticSearch as a Service.
+
+### Serverless
+
+* [Amazon Lambda - AWS](https://aws.amazon.com/pt/lambda/)
+* [Cloud Functions](https://cloud.google.com/functions/)
+* [Formspree](https://formspree.io/) - A Contact Form to Email Service
+
 
 ---
 
@@ -111,13 +119,6 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 * [Snipcart](https://snipcart.com/) - Shopping Cart Solution - Add a Cart to Any Site in Minutes
 
 
-## Serverless
-
-* [Amazon Lambda - AWS](https://aws.amazon.com/pt/lambda/)
-* [Cloud Functions](https://cloud.google.com/functions/)
-* [Formspree](https://formspree.io/) - A Contact Form to Email Service
-
----
 
 ## Development Tools
 
