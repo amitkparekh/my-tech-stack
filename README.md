@@ -20,6 +20,7 @@
   - [Specific applications](#specific-applications)
     - [Ecommerce sites](#ecommerce-sites)
     - [Landing Pages](#landing-pages)
+    - [Command Line tools](#comamnd-line-tools)
   - [Development Tools](#development-tools)
   - [Marketing and Analytics](#marketing-and-analytics)
   - [Design](#design)
@@ -152,6 +153,10 @@ For landing pages I will always try to use JamStack tools.
 
 * [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites | 
 * [Forms | Netlify](https://www.netlify.com/docs/form-handling/) - Serverless form handling
+
+## Command Line tools
+
+* [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 
 ---
 
