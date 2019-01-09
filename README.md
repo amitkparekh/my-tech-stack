@@ -1,30 +1,30 @@
-# My Tech stack and tools
+# my-tech-stack
 
-> In this repository you can find a list of my personal favorite tools, programming languages and frameworks that I would use to build any kind of project. Some of the tools listed I have a deep working experience like PHP, Symfony and Golang, some others are there mostly from reading blogs and tutorials that made me think it would be a great choice for some type of project, but that I havent the chance yet to work with like Gridsome or Graphql.
+> This repository lists my favorite technologies and tools for all the developpment lifecycle from idea to production. From my favorite languages like PHP and Go to develop applications to great PaaS services that I could use for faster application development. With the tools listed in here, I believe I can build anything.
 
-- [Methodologies](#methodologies)
-- [Application Development](#application-development)
-  - [Backend](#backend)
-  - [Frontend](#frontend)
-  - [Mobile Development](#mobile-development)
-  - [Desktop Development](#desktop-development)
-  - [RAD Development](#rad-development)
-  - [CMS](#cms)
-- [Infrastucture and Services](#infrastucture-and-services)
-  - [Hosting](#hosting)
-  - [Monitoring](#monitoring)
-  - [PaaS](#paas)
-  - [DbaaS](#dbaas)
-  - [Serverless](#serverless)
-- [Specific applications](#specific-applications)
-  - [Ecommerce sites](#ecommerce-sites)
-  - [Landing Pages](#landing-pages)
-- [Development Tools](#development-tools)
-- [Marketing and Analytics](#marketing-and-analytics)
-- [Design](#design)
-- [Documentation](#documentation)
-- [Testing](#testing)
-
+- [my-tech-stack](#my-tech-stack)
+  - [Methodologies](#methodologies)
+  - [Application Development](#application-development)
+    - [Backend](#backend)
+    - [Frontend](#frontend)
+    - [Mobile Development](#mobile-development)
+    - [Desktop Development](#desktop-development)
+    - [RAD Development](#rad-development)
+    - [CMS](#cms)
+  - [Infrastucture and Services](#infrastucture-and-services)
+    - [Hosting](#hosting)
+    - [Monitoring](#monitoring)
+    - [PaaS](#paas)
+    - [DbaaS](#dbaas)
+    - [Serverless](#serverless)
+  - [Specific applications](#specific-applications)
+    - [Ecommerce sites](#ecommerce-sites)
+    - [Landing Pages](#landing-pages)
+  - [Development Tools](#development-tools)
+  - [Marketing and Analytics](#marketing-and-analytics)
+  - [Design](#design)
+  - [Documentation](#documentation)
+  - [Testing](#testing)
 
 ## Methodologies
 
@@ -135,6 +135,7 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 * [Cloud Functions](https://cloud.google.com/functions/)
 * [Formspree](https://formspree.io/) - A Contact Form to Email Service
 
+
 ---
 
 ## Specific applications
@@ -152,45 +153,18 @@ For landing pages I will always try to use JamStack tools.
 * [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites | 
 * [Forms | Netlify](https://www.netlify.com/docs/form-handling/) - Serverless form handling
 
-### Chat bots
-
-* [Botkit](https://botkit.ai/) - Building Blocks for Building Bot
-* [probot/probot](https://github.com/probot/probot) -  A framework for building GitHub Apps to automate and improve your workflow
-
-## Blog Platforms
-
-* [Hugo](https://gohugo.io/) + [Netlify](https://www.netlify.com/) + [Forestry.io](https://forestry.io/)
-* [Ghost](https://ghost.org/) - The Professional Publishing Platform
-
 ---
 
 ## Development Tools
 
-### Code
-
 * [GitLab](https://about.gitlab.com/) - Code repository and CI / CD Pipeline
 * [Codacy](https://www.codacy.com/) - Automated code reviews & code analytics
-* [Dependabot](https://dependabot.com/)
 
-### Documentation
+## Marketing and Analytics
 
-* [GitBook](https://www.gitbook.com/) - Documentation your users will love!
-* [VuePress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator
-* [Swagger](https://swagger.io/) - The Best APIs are Built with Swagger Tools
-
-### Testing
-
-* [Jest](https://jestjs.io/) -  Delightful JavaScript Testing
-* [PHPUnit](https://phpunit.de/) - The PHP Testing Framewor
-* [Behat](http://behat.org/en/latest/) -  a php framework for autotesting your business expectations
-* [Cypress.io](https://www.cypress.io/) - JavaScript End to End Testing Framework 
-* [InSpec](https://github.com/inspec/inspec) -  Auditing and Testing Framework
-* [KitchenCI](https://kitchen.ci/) - Test infrastucture
-* [WireMock](http://wiremock.org/) - Mock your APIs for fast, robust and comprehensive testing
-* [Pact](https://docs.pact.io/) - Contract testing your APIs
-* [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
-
----
+* [Google Analytics](https://analytics.google.com/analytics/web/#/)
+* [Mixpanel](https://mixpanel.com/) - Product and User Analytics for Mobile, Web, and Beyond
+* [Mailchimp](https://mailchimp.com/) - Marketing Platform for Small Businesses
 
 ## Design
 
@@ -202,21 +176,23 @@ For landing pages I will always try to use JamStack tools.
 * [Unsplash](https://unsplash.com/) - Beautiful Free Images & Pictures
 * [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine and create
 
-## Marketing and Analytics
+## Documentation
 
-* [Google Analytics](https://analytics.google.com/analytics/web/#/)
-* [Mixpanel](https://mixpanel.com/) - Product and User Analytics for Mobile, Web, and Beyond
-* [Mailchimp](https://mailchimp.com/) - Marketing Platform for Small Businesses
-* [Intercom](https://www.intercom.com/)
+* [GitBook](https://www.gitbook.com/) - Documentation your users will love!
+* [VuePress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator
+* [Swagger](https://swagger.io/) - The Best APIs are Built with Swagger Tools
 
-## Customer support
+## Testing
 
-* [Freshdesk](https://freshdesk.com)
-
-## Other Tools
-
-* [Airtable](https://airtable.com/)
-* [Zapier](https://zapier.com/)
+* [Jest](https://jestjs.io/) -  Delightful JavaScript Testing
+* [PHPUnit](https://phpunit.de/) - The PHP Testing Framewor
+* [Behat](http://behat.org/en/latest/) -  a php framework for autotesting your business expectations
+* [Cypress.io](https://www.cypress.io/) - JavaScript End to End Testing Framework 
+* [InSpec](https://github.com/inspec/inspec) -  Auditing and Testing Framework
+* [KitchenCI](https://kitchen.ci/) - Test infrastucture
+* [WireMock](http://wiremock.org/) - Mock your APIs for fast, robust and comprehensive testing
+* [Pact](https://docs.pact.io/) - Contract testing your APIs
+* [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 
 And many more, depending on the language of the application
 
