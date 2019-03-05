@@ -33,10 +33,12 @@
   - [Other Tools](#other-tools)
 
 
-## Methodologies
+## Methodologies and core values
 
 * Agile
+* Devops
 * Continuous Delivery
+* "Operate what you build" - [see](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249)
 
 ## Application Development
 
@@ -52,8 +54,8 @@
 ### Frontend
 
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
-* [Sass](https://sass-lang.com/)
-* [ECMAScript 6](http://es6-features.org/#Constants)
+* [Sass](https://sass-lang.com/) - 	Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+* [ECMAScript 6](http://es6-features.org/#Constants) - Modern Javascript
 * [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites | 
 * [Nuxt.js](https://nuxtjs.org/) - Universal Vue.js Applications
 * [Gridsome](https://gridsome.org/) - Vue.js-powered static site generator
@@ -218,7 +220,7 @@ For landing pages I will always try to use JamStack tools.
 * [Google Analytics](https://analytics.google.com/analytics/web/#/)
 * [Mixpanel](https://mixpanel.com/) - Product and User Analytics for Mobile, Web, and Beyond
 * [Mailchimp](https://mailchimp.com/) - Marketing Platform for Small Businesses
-* [Intercom](https://www.intercom.com/)
+* [Drift](https://www.drift.com/) -  Conversational Marketing Platfor
 
 ## Customer support
 
@@ -227,7 +229,8 @@ For landing pages I will always try to use JamStack tools.
 ## Other Tools
 
 * [Airtable](https://airtable.com/)
-* [Zapier](https://zapier.com/)
+* [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work
+* [Bubble](https://bubble.is/welcome) - Bubble lets you build software without writing code.
 
 And many more, depending on the language of the application
 
