@@ -1,6 +1,8 @@
 # My Tech stack and tools
 
-> In this repository you can find a list of my personal favorite tools, programming languages and frameworks that I would use to build any kind of project. Some of the tools listed I have a deep working experience like PHP, Symfony and Golang, some others are there mostly from reading blogs and tutorials that made me think it would be a great choice for some type of project, but that I havent the chance yet to work with like Gridsome or Graphql.
+In this repository you can find a list of my personal favorite tools, programming languages and frameworks that I would use to build any kind of project.
+
+Some of the tools listed I have a deep working experience like PHP, Symfony and Golang, some others are there mostly from reading blogs and tutorials that made me think it would be a great choice for some type of project, but that I havent the chance yet to work with like Gridsome or Graphql.
 
 - [My Tech stack and tools](#my-tech-stack-and-tools)
   - [Methodologies](#methodologies)
