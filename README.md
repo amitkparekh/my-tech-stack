@@ -189,7 +189,6 @@ For landing pages I will always try to use JamStack tools.
 
 ### Documentation
 
-* [GitBook](https://www.gitbook.com/) - Documentation your users will love!
 * [VuePress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator
 * [Swagger](https://swagger.io/) - The Best APIs are Built with Swagger Tools
 
@@ -227,6 +226,12 @@ For landing pages I will always try to use JamStack tools.
 ## Customer support
 
 * [Freshdesk](https://freshdesk.com)
+
+## Free For Open source
+
+* [Snyk](https://snyk.io/) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies
+* [Dependabot](https://dependabot.com/) - Dependabot creates pull requests to keep your dependencies secure and up-to-date.
+* [Codecov](https://codecov.io/) - Code Coverage Done Right
 
 ## Other Tools
 
