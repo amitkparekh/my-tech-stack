@@ -13,6 +13,8 @@ Some of the tools listed I have a deep working experience like PHP, Symfony and 
     - [Desktop Development](#desktop-development)
     - [RAD Development](#rad-development)
     - [CMS](#cms)
+    - [Databases](#databases)
+    - [Messaging Queues](#messaging-queues)
   - [Infrastucture and Services](#infrastucture-and-services)
     - [Hosting](#hosting)
     - [Monitoring](#monitoring)
@@ -99,6 +101,20 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 * [Strapi](https://strapi.io/) - - Node.js Headless CMS for building customizable AP
 * [Forestry.io](https://forestry.io/#/) - Static CMS for Hugo & Jekyll
 * [Prismic](https://prismic.io/) - Headless API CMS for both developers and marketers
+
+---
+
+## Databases
+
+* [PostgreSQL](https://www.postgresql.org/) - The world's most advanced open source database
+* [Cloud Firestore](https://firebase.google.com/) - Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud Platform.
+* [Redis](https://redis.io/) - Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker
+* [Elasticsearch](https://www.elastic.co/) - Open Source Search & Analytics
+* [MongoDB](https://www.mongodb.com/) - Document Oriented Database
+
+## Message Queues
+
+* [Amazon Simple Queue Service (SQS)(https://aws.amazon.com/sqs/) -  Message Queuing for Messaging Applications | AWS]
 
 ---
 
