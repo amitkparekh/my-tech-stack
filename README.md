@@ -55,16 +55,13 @@ Some of the tools listed I have a deep working experience like PHP, Symfony and 
 
 ---
 
-### Frontend
+### Frontend Development
 
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
-* [Sass](https://sass-lang.com/) - 	Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 * [ECMAScript 6](http://es6-features.org/#Constants) - Modern Javascript
-* [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites | 
 * [Nuxt.js](https://nuxtjs.org/) - Universal Vue.js Applications
 * [Gridsome](https://gridsome.org/) - Vue.js-powered static site generator
 * [Bulma](https://bulma.io/) -  a modern CSS framework based on Flexbox
-* [Material Design Lite](https://getmdl.io/) - Material Design Lite lets you add a Material Design look and feel to your websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for cross-device use, gracefully degrade in older browsers, and offer an experience that is immediately accessible.
 * [Tailwind CSS](https://tailwindcss.com/) -  A Utility-First CSS Framework for Rapid UI Development
 * [vuetify.js](https://vuetifyjs.com/en/) - Vue.js Material Component Framework
 
@@ -82,51 +79,48 @@ Open source framework for building truly native mobile apps with Angular, Vue.js
 * [Electron](https://electronjs.org/) - Build cross platform desktop apps with JavaScript, HTML, and CSS.
 * [Vala](https://wiki.gnome.org/Projects/Vala) - Vala is a programming language using modern high level abstractions without imposing additional runtime requirements and without using a different ABI compared to applications and libraries written in C. Vala uses the GObject type system and has additional code generation routines that make targeting the GNOME stack simple. 
 
-### RAD Development
-
-Tools that allow Rapid application development useful for MVPs and Prototypes
-
-* [Symfony](https://symfony.com/) - High Performance PHP Framework for Web Development
-* [API Platform](https://api-platform.com/) - REST and GraphQL framework on top of Symfony and React.
-* [Strapi](https://strapi.io/) - Node.js Headless CMS for building customizable API.
-* [Graphcool](https://www.graph.cool/) -  GraphQL Backend Development Framework
-* [Firebase](https://firebase.google.com/) - For data storage.
-
-Check [Paas](#PaaS) for more tools that can help with RAD.
-
-### CMS
+### CMS and DbaaS
 
 * [GraphCMS](https://graphcms.com/) -  The GraphQL Headless CMS
 * [Netlify CMS](https://www.netlifycms.org/) -  Open-Source Content Management System
 * [Strapi](https://strapi.io/) - - Node.js Headless CMS for building customizable API
-* [Directus](https://directus.app/#/login)
-* [Forestry.io](https://forestry.io/#/) - Static CMS for Hugo & Jekyll
+* [Directus](https://directus.app/#/login) - Directus is an open-source tool for managing content across all your omni-channel digital experiences.
 * [Prismic](https://prismic.io/) - Headless API CMS for both developers and marketers
 
 ### Databases
 
 * [PostgreSQL](https://www.postgresql.org/) - The world's most advanced open source database
 * [Cloud Firestore](https://firebase.google.com/) - Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud Platform.
+* [Cloud Datastore](https://cloud.google.com/datastore/) - NoSQL Schemaless Database by Google.
 * [Redis](https://redis.io/) - Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker
 * [Elasticsearch](https://www.elastic.co/) - Open Source Search & Analytics
 * [MongoDB](https://www.mongodb.com/) - Document Oriented Database
+* [Algolia](https://www.algolia.com/) - Fast, Reliable and Modern Search and Discovery. ElasticSearch as a Service.
 
 ### Message Queues
 
-* [Amazon Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) -  Message Queuing for Messaging Applications
+* [Apache Kafka](https://kafka.apache.org/) - Apache Kafka® is a distributed streaming platform
+* [Cloud Pub/Sub](https://cloud.google.com/pubsub)
 
 ---
 
 ## Infrastucture and Services
 
+### Domains and DNS
+
+* [Cloudflare](https://www.cloudflare.com/)- CDN, DNS and DDOS Protection
+* [Namecheap](https://www.namecheap.com/) - Domain registar
+
 ### Hosting
 
 * [DigitalOcean](https://www.digitalocean.com/) - The simplest cloud platform for developers & teams.
-* [Heroku](https://dashboard.heroku.com)
-* [Cloudflare](https://www.cloudflare.com/)- CDN, DNS and DDOS Protection
-* [Namecheap](https://www.namecheap.com/) - Domain registar
 * [Netlify](https://www.netlify.com/) -  All-in-one platform for automating modern web projects.
-* [Kubernetes](https://kubernetes.io/)
+* [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
+
+### Storage
+
+* [Google Cloud Storage](https://cloud.google.com/storage/) - Unified object storage for developers and enterprises.
+* [Cloudinary](https://cloudinary.com/) - Image and Video Upload, Storage, Optimization and CDN
 
 ### Monitoring
 
@@ -141,24 +135,19 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 ### PaaS
 
 * [SendGrid](https://sendgrid.com/) - Email Delivery Service
-* [Cloudinary](https://cloudinary.com/) - Image and Video Upload, Storage, Optimization and CDN
 * [GetSream](https://getstream.io/) - API for Scalable News Feeds & Activity Streams
 * [PubNub](https://www.pubnub.com/) - Making Realtime Innovation Simple
 * [UploadCare](https://uploadcare.com/) - A scalable file APIfor web and mobile apps
 * [Stripe](https://stripe.com/) - Online payment processing for internet businesses
 * [Auth0](https://auth0.com/) - Authentication as a Service
 
-### DbaaS
-
-* [Cloud Firestore](https://firebase.google.com/docs/firestore/) - Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud Platform.
-* [MongoDB Hosting: Database-as-a-Service by mLab](https://mlab.com/)
-* [Cloud SQL](https://cloud.google.com/sql/docs/) - Cloud SQL is a fully-managed database service that makes it easy to set up, maintain, manage, and administer your relational databases on Google Cloud Platform.
-* [Algolia](https://www.algolia.com/) - Fast, Reliable and Modern Search and Discovery. ElasticSearch as a Service.
 
 ### Serverless
 
-* [Amazon Lambda - AWS](https://aws.amazon.com/pt/lambda/)
 * [Cloud Functions](https://cloud.google.com/functions/)
+* [Cloud Tasks  |  Google Cloud](https://cloud.google.com/tasks/)
+* [Cloud Run  |  Google Cloud](https://cloud.google.com/run/)
+* [Cloud Scheduler  |  Google Cloud](https://cloud.google.com/scheduler/)
 * [Formspree](https://formspree.io/) - A Contact Form to Email Service
 
 ---
@@ -167,16 +156,10 @@ Check [Paas](#PaaS) for more tools that can help with RAD.
 
 ### Ecommerce sites
 
+* [Shopify](https://pt.shopify.com/)
 * [PrestaShop](https://www.prestashop.com/en) - Create and develop your business
 * [Sylius](https://sylius.com/) - Open Source eCommerce framework on Symfony
 * [Snipcart](https://snipcart.com/) - Shopping Cart Solution - Add a Cart to Any Site in Minutes
-
-### Landing Pages
-
-For landing pages I will always try to use JamStack tools.
-
-* [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites | 
-* [Forms | Netlify](https://www.netlify.com/docs/form-handling/) - Serverless form handling
 
 ### Chat bots
 
